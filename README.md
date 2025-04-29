@@ -24,7 +24,7 @@ I **design**, **automate**, and **scale** ML pipelines to bridge the gap between
 ---
 
 ### 📊 **GitHub Impact**  
-[![GitHub Streak](https://streak-stats.demolab.com?user=HAllenT420&theme=dark&hide_border=true&background=0D1117)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=HAllenT420&theme=dark&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HAllenT420&layout=compact&theme=vision-friendly-dark&hide=html,css)](https://github.com/YOUR_USERNAME)  
 
 ---
