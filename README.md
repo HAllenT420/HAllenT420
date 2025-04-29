@@ -1,5 +1,5 @@
 # **Allen Tider Harry**  
-`Machine Learning Engineer` | `MLOps Architect` | `Data Science Evangelist`  
+`Machine Learning Engineer` | `MLOps Architect` | `Data Science`  
 **Industrializing AI workflows • Scaling GenAI systems • Building open-source tools**  
 
 ---
