@@ -1,17 +1,15 @@
 # Allen Tider Harry
 
 ### 🚀 **About Me**  
-**Generative AI Engineer** | **Data Science Educator** | **Open-Source Advocate**  
-Building adaptive AI systems • Democratizing AI education • Scaling collaborative innovation  
+**Machine Learning Engineer** | **Data Scientist** | 
+Scaling Data Science @ Scale
+🔧 Building 10+ Production MLOps Pipelines
 
-**Focus Areas**:  
-🤖 Agentic AI Architectures • 🧠 Generative Models (LLMs, Diffusion) • 📦 ML Ops  
+🔥 What I Do
+I architect, automate, and scale ML systems for real-world impact.
 
-### ⚡ **Core Stack**  
-- **AI/ML**: PyTorch, TensorFlow, Keras, Transformers, LangChain  
-- **Data**: Pandas, NumPy, Spark, Kafka, SQL/NoSQL  
-- **Cloud**: AWS, Azure, GCP, Docker, GitHub Actions  
-- **Tools**: MLflow, FastAPI, OpenCV, Jupyter, Git
+🛠️ MLOps Engineering: Designed 10+ end-to-end pipelines (CI/CD, model monitoring, drift detection) to industrialize data science.
+
 
 ### **Tech Stack**  
 
@@ -48,11 +46,16 @@ Building adaptive AI systems • Democratizing AI education • Scaling collabor
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🌱 **Latest Projects**  
-- [Flight Delay Prediction](https://github.com/...) - AWS-powered ML pipeline  
-- [Data Science Curriculum](https://github.com/...) - 6-month course with notebooks  
-- [AI Mantra Series](https://github.com/...) - Open-source learning resources  
+📈 GitHub Impact
+GitHub Streak
+Top Languages
 
 📫 **Let's Collaborate**:  
 [![LinkedIn](https://img.shields.io/badge/Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/allentiderharry)  
-[![Email](https://img.shields.io/badge/Contact-red?style=flat&logo=gmail)](mailto:youremail@domain.com)
+[![Email](https://img.shields.io/badge/Contact-red?style=flat&logo=gmail)](mailto:allentider@gmail.com)
+
+
+Fun Fact: I automate my coffee brewing ☕ with Python scripts while debugging Kubernetes clusters.
+
+🛠️ Current Mission
+"Democratizing MLOps – because scaling AI shouldn’t be a privilege."
